@@ -1,4 +1,4 @@
-# **Rust Wallthrough - Part 1 and Part 2:**
+# **Rust Walkthrough - Part 1 and Part 2:**
 Scroll down to see the output of both Part-1 and Part-2  (**Pre-work Project : "The Bouncy-Ball Game", Output Video** 👇)
 ![Pre-Work_Project_By_Bhupendra_Chouhan](https://github.com/Bhupendrachouhan19/Soroban_Internship_Bootcamp_Project/assets/78025043/36d7907f-bcb0-43b8-8dc4-67f3915a91ae)
 
